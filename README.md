@@ -13,9 +13,9 @@ This project is designed to provide safety to aged people or those with need of 
 - **SIM800L GSM Module**
 - **DC-DC Buck Converter** (to provide 3.4V–4.5V to SIM800L)
   
-**Schematic Diagram**
+**Setup Image**
+![WhatsApp Image 2025-06-24 at 00 23 26_aee0879f](https://github.com/user-attachments/assets/867eca25-4121-4a82-8eee-d9297391692b)
 
-  ![image](https://github.com/user-attachments/assets/2c96e0b2-9a2f-4403-b073-a4e1da282a51)
 ---
 
 ## System Logic
